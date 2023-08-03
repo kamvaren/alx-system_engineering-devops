@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 chmod 000 hello
 chmod o+rwx hello
 
